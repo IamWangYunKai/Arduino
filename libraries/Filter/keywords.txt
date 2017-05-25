@@ -1,0 +1,12 @@
+Filter	KEYWORD1
+value	KEYWORD2
+limitRead	KEYWORD2
+midRead	KEYWORD2
+avrRead	KEYWORD2
+recRead	KEYWORD2
+lagRead	KEYWORD2
+setLimit	KEYWORD2
+setVal	KEYWORD2
+setDalay	KEYWORD2
+setRate	KEYWORD2
+recClear	KEYWORD2
